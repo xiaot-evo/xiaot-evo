@@ -1,16 +1,15 @@
-## Hi there 👋
+# 你好，欢迎来到我的 GitHub 👋
 
-<!--
-**xiaot-evo/xiaot-evo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是 **xiaot-evo**，一名热爱探索和折腾的新生代学生程序员。
 
-Here are some ideas to get you started:
+- 🛠️ 技能栈：Golang、TypeScript、Nix
+- 📝 正在学习更多有趣的技术
+- 🌱 坚信代码可以改变世界
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> “用代码记录成长，用热爱驱动前行。”
+
+---
+
+- 📫 欢迎交流：可以通过 GitHub Issues 找到我
+
+感谢你的关注，愿我们都能在开源世界中不断进步！
